@@ -82,7 +82,7 @@ In many rural regions, merchants and small businesses face challenges in reachin
    git clone https://github.com/your-username/supermall-webapp.git
 ```
 Open the project using Live Server in VS Code
-OR double-click dashboard.html to run in browser.
+OR double-click home.html to run in browser.
 
 Configure Firebase in js/firebaseConfig.js:
 ```
